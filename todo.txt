@@ -1,0 +1,4 @@
+- use correct font
+- add background image
+- write the html
+- style for mobile
