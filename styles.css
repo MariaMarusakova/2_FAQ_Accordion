@@ -32,7 +32,7 @@ The designs were created to the following widths:
       font-size: 16px;
       width: 80%;
       margin: auto;
-      background-image: url('/faq-accordion-main/assets/images/background-pattern-desktop.svg');
+      background-image: url('./faq-accordion-main/assets/images/background-pattern-desktop.svg');
     }
 
     .faqs{
@@ -59,7 +59,7 @@ The designs were created to the following widths:
       font-size: 10px;
       width: 100%;
       margin: 0;
-      background-image: url('/faq-accordion-main/assets/images/background-pattern-mobile.svg');
+      background-image: url('./faq-accordion-main/assets/images/background-pattern-mobile.svg');
 
     }
 
